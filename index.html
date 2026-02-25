@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MD Halim - Academic Portfolio</title>
+</head>
+<body>
+
+    <h1>MD Halim</h1>
+    <p>Email: rolexad90@gmail.com</p>
+
+    <hr>
+
+    <h2>About Me</h2>
+    <p>Science student with strong academic performance in Mathematics and Physics, interested in Computer Science and Artificial Intelligence.</p>
+
+    <h2>Education</h2>
+    <ul>
+        <li>HSC - Savar Model College (GPA 5.00)</li>
+        <li>SSC - Amsimore Sesip Model High School (GPA 5.00)</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+        <li>What Is Generative AI?</li>
+        <li>Digital Thinking Tools for Better Decision Making</li>
+    </ul>
+
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>Microsoft Office</li>
+        <li>Internet Research</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Personal Academic Portfolio Website (HTML)</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>LinkedIn: www.linkedin.com/in/md90halim</p>
+
+</body>
+</html>
